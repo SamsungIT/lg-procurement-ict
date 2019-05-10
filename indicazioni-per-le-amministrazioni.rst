@@ -12,7 +12,7 @@ fornite secondo il seguente criterio temporale:
 - azioni da svolgere prima dell’acquisizione (prima della fase di procurement);
 
 - azioni da svolgere nel corso del procedimento di acquisizione (durante la
-fase di procurement);
+  fase di procurement);
 
 - azioni da svolgere dopo la stipula del contratto.
 
@@ -80,7 +80,7 @@ di successo/insuccesso, in termini di sicurezza, riscontrati nelle precedenti
 acquisizioni ICT, come buone prassi da tenere in conto al fine di un
 miglioramento continuo del processo di procurement. A livello più generale e
 inter-amministrazione, la raccolta di casi di successo e buone prassi può essere
-svolta da un soggetto centrale, vedi paragrafo 2.2.
+svolta da un soggetto centrale, vedi paragrafo 3.2.
 
 L’amministrazione deve inoltre organizzarsi per essere in grado di ricevere e
 diffondere al proprio interno eventuali avvisi e allarmi provenienti da gruppi
@@ -182,7 +182,7 @@ tale scopo, ove non siano già state svolte per altri obiettivi,
 l’amministrazione deve eseguire le attività di Risk Assessment e di Business
 Impact Analisys. Per un approfondimento su queste attività, si rimanda alla
 consultazione dei seguenti documenti di riferimento (Rif: DR-1 – DR-2 – DR-3)
-del paragrafo 1.5.
+del paragrafo 1.6.
 
 Anche questa classificazione va mantenuta aggiornata, eventualmente ripetendo RA
 e BIA quando l’amministrazione giudichi obsoleti gli ultimi studi condotti (ad
