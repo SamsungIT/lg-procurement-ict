@@ -45,7 +45,7 @@ informazioni sugli strumenti adottati e sui risultati conseguiti.
 Veicolare best practice tra le PA
 ---------------------------------
 
-Come anticipato al paragrafo 2.1.1.2, AGID fungerà da punto di raccolta e
+Come anticipato al paragrafo 2.1.2, AGID fungerà da punto di raccolta e
 diffusione di casi di studio - tratti dalle esperienze positive e negative delle
 amministrazioni - sul tema della sicurezza nel procurement ICT.
 

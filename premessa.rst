@@ -190,9 +190,8 @@ Middleware
   utilizzano architetture diverse.
 
 Penetration test
-  `Processo di valutazione della sicurezza di un sistema o di una rete
-  attraverso la simulazione di un attacco. <https://it.wikipedia.or
-  g/wiki/Sicurezza_informatica>`__
+  Processo di valutazione della sicurezza di un sistema o di una rete
+  attraverso la simulazione di un attacco.
 
 Procurement ICT
   Attività di approvvigionamento di beni e servizi informatici.
@@ -327,23 +326,25 @@ Documenti di Riferimento
 ------------------------
 
 DR-1
-  ISO 22317 - Linee guida per Business Impact Analysis -
-  https://www.iso.org/standard/50054.html
+  | ISO 22317 - Linee guida per Business Impact Analysis
+  | https://www.iso.org/standard/50054.html
 
 DR-2
-  ISO 27001 - Sistema di Gestione della Sicurezza delle Informazioni
-  https://www.iso.org/isoiec-27001-information-security.html
+  | ISO 27001 - Sistema di Gestione della Sicurezza delle Informazioni
+  | https://www.iso.org/isoiec-27001-information-security.html
 
 DR-3
-  ISO 31000 Risk Management https://www.iso.org/iso-31000-risk-management.html
+  | ISO 31000 Risk Management
+  | https://www.iso.org/iso-31000-risk-management.html
 
 DR-4
-  Linee guida sviluppo software sicuro
-  https://www.agid.gov.it/it/sicurezza/cert-pa/linee-guida-sviluppo-del-software-sicuro
+  | Linee guida sviluppo software sicuro
+  | https://www.agid.gov.it/it/sicurezza/cert-pa/linee-guida-sviluppo-del-software-sicuro
 
 DR-5
-  Misure minime di sicurezza AGID
-  https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict
+  | Misure minime di sicurezza AGID
+  | https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict
 
 DR-6
-  ISO 15408 Standard Common Criteria https://www.iso.org/standard/50341.html
+  | ISO 15408 Standard Common Criteria
+  | https://www.iso.org/standard/50341.html

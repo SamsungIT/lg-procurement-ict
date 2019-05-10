@@ -38,7 +38,7 @@ paragrafo precedente, si propone alle centrali di committenza di:
 
 -  costruire, in accordo con ANAC, un elevato livello di cultura e
    formazione delle Commissioni di valutazione delle gare in ambito sicurezza
-   (vedi paragrafo 2.1.2.4);
+   (vedi paragrafo 2.2.4);
 
 -  svolgere un ruolo di omogeneizzatore/armonizzatore degli approcci di
    sicurezza e delle tecnologie di sicurezza erogati nell’ambito delle forniture

@@ -17,7 +17,7 @@ fase di procurement);
 - azioni da svolgere dopo la stipula del contratto.
 
 Le indicazioni fornite sono da ritenersi obbligatorie per le forniture ritenute
-critiche dall’amministrazione committente (vedi par. 2.1.2.1), mentre devono
+critiche dall’amministrazione committente (vedi par. 2.2.1), mentre devono
 essere intese come semplici suggerimenti, da attuarsi compatibilmente con le
 risorse disponibili e in misura adeguata alle dimensioni - in termini di
 investimenti finanziari - del contratto stesso, per forniture non critiche. Nel
@@ -80,7 +80,7 @@ di successo/insuccesso, in termini di sicurezza, riscontrati nelle precedenti
 acquisizioni ICT, come buone prassi da tenere in conto al fine di un
 miglioramento continuo del processo di procurement. A livello più generale e
 inter-amministrazione, la raccolta di casi di successo e buone prassi può essere
-svolta da un soggetto centrale, vedi paragrafo 2.2.2.
+svolta da un soggetto centrale, vedi paragrafo 2.2.
 
 L’amministrazione deve inoltre organizzarsi per essere in grado di ricevere e
 diffondere al proprio interno eventuali avvisi e allarmi provenienti da gruppi
@@ -197,7 +197,7 @@ di audit nei confronti dei propri fornitori, anche individuando al loro interno
 competenze e responsabilità. Devono definire il processo e le modalità di
 svolgimento delle attività di audit: processo e modalità devono essere
 esplicitate nei capitolati di gara o nei contratti di fornitura, come
-dettagliato nel successivo paragrafo 2.1.2.
+dettagliato nel successivo paragrafo 2.2.
 
 Tra le modalità da definire, occorre stabilire almeno:
 
@@ -214,7 +214,7 @@ Tra le modalità da definire, occorre stabilire almeno:
 Gli indicatori, metodi e misure di cui all’ultimo punto potranno essere
 utilizzati anche per valutare il fornitore, sotto il profilo della sicurezza,
 nelle procedure di acquisizione che l’amministrazione dovrà gestire (si veda il
-paragrafo 2.1.2).
+paragrafo 2.2).
 
 AG7 - Definire una metodologia di audit interno in materia di sicurezza
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -326,7 +326,7 @@ Quando sorge una necessità di acquisire beni o servizi ICT, le amministrazioni
 devono determinare il livello di criticità dell’acquisizione in esame. Per fare
 ciò, l’amministrazione deve verificare anzitutto su quali beni e servizi avrà
 impatto l’acquisizione in esame (con riferimento alla classificazione di cui al
-paragrafo 2.1.1.5). Si noti che “avere impatto” non significa solo che
+paragrafo 2.1.5). Si noti che “avere impatto” non significa solo che
 l’acquisizione determina una modifica sul bene o sul servizio, ma anche - ad
 esempio - che l’acquisizione è funzionale al mantenimento in operatività del
 bene o servizio in questione.
@@ -468,7 +468,7 @@ e riguardano ad esempio:
   della fornitura;
 
 - le obbligazioni per rendere possibile ed efficace attività di audit
-  (vedi paragrafo 2.1.1.7).
+  (vedi paragrafo 2.1.7).
 
 Altri requisiti di sicurezza sono invece specifici delle diverse tipologie di
 fornitura, in particolare sono connessi al bene o prestazione da acquisire. Si
@@ -579,7 +579,7 @@ svolto puntualmente gli adempimenti necessari in questa fase.
    |                       | inseriti tutti i      |                       |
    |                       | requisiti di          |                       |
    |                       | sicurezza necessari?  |                       |
-   +-----------------------+-----------------------+-----------------------+
+   |                       +-----------------------+-----------------------+
    |                       | È stato necessario    |                       |
    |                       | definire requisiti    |                       |
    |                       | non presenti nelle    |                       |
@@ -594,7 +594,7 @@ svolto puntualmente gli adempimenti necessari in questa fase.
    |                       | giudicatrice ha       |                       |
    |                       | competenze in tema di |                       |
    |                       | sicurezza?            |                       |
-   +-----------------------+-----------------------+-----------------------+
+   |                       +-----------------------+-----------------------+
    |                       | I requisiti di        |                       |
    |                       | sicurezza presenti    |                       |
    |                       | nel capitolato sono   |                       |
@@ -611,8 +611,8 @@ Azioni da svolgere dopo la stipula del contratto (in esecuzione e/o a posteriori
 
 Le azioni elencate in questo paragrafo sono generalmente di tipo operativo,
 dipendono dalla tipologia di fornitura (si veda la matrice azione - tipologia al
-successivo paragrafo 2.1.3.15) e sono in connessione con le azioni di cui ai
-paragrafi 2.1.1 e 2.1.2, nel senso che non possono essere svolte in modo
+successivo paragrafo 2.3.15) e sono in connessione con le azioni di cui ai
+paragrafi 2.1 e 2.2, nel senso che non possono essere svolte in modo
 efficace se, prima e durante la fase di acquisizione, non sono state eseguite le
 azioni ad esse propedeutiche. Ad esempio, l’azione A10 deve essere preceduta
 dalla azione AG4.
@@ -622,11 +622,11 @@ definiti in fase di acquisizione e presenti nel capitolato di gara, oppure di
 dichiarazioni presenti nell’offerta tecnica del fornitore. Per quanto riguarda
 le azioni da svolgere dopo la chiusura del contratto, alcune sono collegate alla
 tipologia del contratto stesso, altre sono più generali e si riconducono alle
-azioni di cui al paragrafo 2.1.1.
+azioni di cui al paragrafo 2.1.
 
 Ad ogni azione deve essere associato, anche formalmente, il ruolo o la struttura
 dell’amministrazione che ha la responsabilità dell’azione stessa (si veda, a
-questo proposito, il paragrafo 2.1.1.3).
+questo proposito, il paragrafo 2.1.3).
 
 A1 - Gestire le utenze dei fornitori
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -739,7 +739,7 @@ trascurabile, vengano svolte nell’ambito delle attività di monitoraggio del
 contratto. Esse saranno condotte internamente all’amministrazione se questa
 possiede le necessarie competenze, oppure saranno affidate a un monitore esterno
 tramite un opportuno contratto per servizi di questo tipo. Potranno anche
-rientrare nelle attività di audit di cui al paragrafo 2.1.1.6.
+rientrare nelle attività di audit di cui al paragrafo 2.1.6.
 
 Nel caso di contratti non soggetti a monitoraggio, l’amministrazione dovrà
 svolgere l’azione A6 nell’ambito della gestione del contratto stesso,
@@ -790,7 +790,7 @@ verificare che il fornitore rilasci la seguente documentazione:
 
 Si tratta, anche in questo caso, di una verifica operativa di un impegno che
 dev’essere preventivamente inserito nel contratto o nel capitolato (vedi
-paragrafo 2.1.2.3).
+paragrafo 2.2.3).
 
 A9 - Effettuare la rimozione dei permessi (deprovisioning) al termine di ogni progetto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -815,7 +815,7 @@ A10 - Aggiornare l’inventario dei beni
 Nel caso di progetti realizzativi e di acquisizioni, l’amministrazione deve:
 
 - inserire l’eventuale hardware acquisito nell’inventario dei beni
-  dell’amministrazione (vedi paragrafo 2.1.1.4);
+  dell’amministrazione (vedi paragrafo 2.1.4);
 
 - inserire l’eventuale software realizzato o acquisito (insieme al
   relativo middleware e alle librerie a corredo) nell’inventario dei
