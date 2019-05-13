@@ -149,3 +149,6 @@ pianificare, di concerto con la Consip, la tempistica delle gare che interessano
 sistemi e progetti critici sotto l’aspetto della sicurezza, evitando ad esempio
 situazioni in cui convenzioni e/o accordi quadro siano esauriti e i successivi
 non siano ancora disponibili perché le relative gare sono ancora da aggiudicare.
+
+.. discourse::
+   :topic_identifier: 9704
