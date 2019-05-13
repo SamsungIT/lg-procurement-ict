@@ -43,3 +43,6 @@ paragrafo precedente, si propone alle centrali di committenza di:
 -  svolgere un ruolo di omogeneizzatore/armonizzatore degli approcci di
    sicurezza e delle tecnologie di sicurezza erogati nell’ambito delle forniture
    della PA.
+
+.. discourse::
+   :topic_identifier: 9705
