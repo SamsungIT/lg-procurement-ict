@@ -252,3 +252,5 @@ del contesto della singola acquisizione.
    |     | alle installazioni.                                             |
    +-----+-----------------------------------------------------------------+
 
+.. discourse::
+   :topic_identifier: 9706
