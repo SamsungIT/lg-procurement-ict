@@ -348,3 +348,8 @@ DR-5
 DR-6
   | ISO 15408 Standard Common Criteria
   | https://www.iso.org/standard/50341.html
+  
+  
+  
+.. discourse::
+   :topic_identifier: 9702
