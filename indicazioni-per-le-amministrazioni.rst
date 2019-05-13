@@ -1092,3 +1092,6 @@ rischio per l’amministrazione stessa. Le P.A. devono inoltre tener presente ch
 sebbene alcune azioni vadano ripetute nel tempo, l’impatto maggiore si ha la
 prima volta che esse vengono eseguite, mentre le successive (aggiornamento) il
 loro impatto è nettamente inferiore.
+
+.. discourse::
+   :topic_identifier: 9703
