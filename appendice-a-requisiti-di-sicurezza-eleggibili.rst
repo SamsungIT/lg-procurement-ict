@@ -173,8 +173,18 @@ del contesto della singola acquisizione.
    |     | operative) relativa alla corretta configurazione e gestione     |
    |     | degli aspetti di sicurezza.                                     |
    +-----+-----------------------------------------------------------------+
-
-
+   | R*  | Il fornitore (anche in collaborazione con il produttore         |
+   |     | della tecnologia) è tenuto a fornire indicazione delle          |
+   |     | certificazioni di sicurezza (Common Criteria, FIPS, etc) che il |
+   |     | prodotto oggetto della fornitura ha ottenuto da laboratori      |
+   |     | indipendenti in Italia e all'estero.                            |      
+   +-----+-----------------------------------------------------------------+
+   | R*  | Il prodotto oggetto della fornitura dispone di un ambiente di   |
+   |     | esecuzione attendibile (Trusted Execution Environment) a        |
+   |     | livello hardware (System on Chip) per fornire una sicurezza     |
+   |     | avanzata applicabile al Sistema Operativo, ai Servizi erogati   |
+   |     | dalla piattaforma ed alle applicazioni di terze parti.          |                   
+   +-----+-----------------------------------------------------------------+
 .. table:: Requisiti specifici per forniture di servizi di gestione remota
    :name: requisiti-specifici-gestione-remota
 
